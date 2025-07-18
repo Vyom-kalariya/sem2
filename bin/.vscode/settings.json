@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\vyom2\\JAVA\\JAVA Codes\\JAVA,DS,DBMS after T4 PROJECT\\mysql-connector-j-9.0.0.jar"
+    ]
+}
